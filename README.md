@@ -1,5 +1,5 @@
 # WNV
-Predicting West Nile Virus in Chicago¶
+Predicting West Nile Virus in Chicago  
 Kaggle Overview Description: https://www.kaggle.com/c/predict-west-nile-virus
 
 ## Objective:
